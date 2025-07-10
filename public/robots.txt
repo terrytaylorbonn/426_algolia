@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://your-domain.com/sitemap.xml
+Sitemap: https://four26-algolia.onrender.com/sitemap.xml
 
 # Allow Algolia crawler
 User-agent: Algolia
