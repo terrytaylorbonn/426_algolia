@@ -1,4 +1,4 @@
-// pages/index.tsx #426 GPT25
+// pages/index.tsx #426 GPT26 SITE!!!!
 import Head from 'next/head';
 import Layout from '../components/Layout';
 
@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <meta name="algolia-domain-verification" content="FF14F5E36F82A306" />
+        <meta name="algolia-site-verification" content="FF14F5E36F82A306" />
       </Head>
       <Layout>
         <h1>Welcome to My Docs</h1>
