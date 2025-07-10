@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
       <Layout>
         <article>
-          <h1>Welcome to Our API Documentation</h1>
+          <h1>WWWWWelcome to Our API Documentation</h1>
           <p>
             This comprehensive documentation site provides everything you need to integrate with our platform. 
             From basic authentication to advanced quantum synchronization protocols, we've got you covered.
